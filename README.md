@@ -1,2 +1,2 @@
-# PIC_UI_Automation_Test_Sample
-Java-Selenium-TestNG-UI Automation
+# Protective_Practice_GIT
+Learning git by pull/merge/commit request. This is my own selenium code for UI automation test framework 
